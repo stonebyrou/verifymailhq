@@ -18,11 +18,11 @@ Cleaning is not proof a mailbox exists. Catch-all (accept-all) domains stay risk
 | Step | Cap |
 |---|---|
 | Clean | 20,000 rows / day · 10,000 rows and 5 MB per file |
-| Verify | 50 credits / day |
+| Verify | 10 credits / day (guests). Signed-in free: 15 / day + 150 / month |
 | Files | Deleted after 24 hours |
 | Single-address cache | Up to 30 days, not tied to you or a list |
 
-Paid plans and a $29 credit pack: [Pricing](https://verifymailhq.com/pricing/).
+Paid: List pass $9 / 1,500 (one-time) · Starter $19 / 3,000 a month · Credit pack $29 / 6,000 (never expire). Through 18 Dec 2026, one-time packs grant +50% extra credits. Details: [Pricing](https://verifymailhq.com/pricing/).
 
 ## What we do not do
 
